@@ -24,3 +24,10 @@
         f"@{location}"
     )
  役割: 予定1件の情報を、時刻・タイトル・場所を含む表示形式に変換する
+
+
+## 第3回 午前
+1ページ開いたときの往復の数（およそ）: 250 回
+curl -I の1行目: HTTP/1.1 200
+無いページの1行目: HTTP/1.1 404
+API の full_name: "yuu615903-hue/reskilling-practice" pushed_at: https://github.com/yuu615903-hue/reskilling-practice
